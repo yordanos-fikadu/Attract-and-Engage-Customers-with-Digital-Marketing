@@ -1,0 +1,74 @@
+Best practices for links and promoting a website
+Links are an important way to help visitors find the information they need on your website. They’re also an important way to optimize website content for SEO, which you’re learning about in this course. This reading will help you become familiar with the best practices for internal and external links. You’ll also learn about promoting a website and attracting backlinks.
+
+Introduction to website links
+When it comes to website links, there are two main types: the links on your website, and the links that point to your website.
+
+Links on a website can be either an internal link—pointing to another page within the website—or an external link—pointing to a page on another website. For example, imagine you’re the digital marketer for a travel planning website. An internal link may direct a visitor from a webpage with a list of hotels to another internal webpage about a specific hotel. The visitor never leaves your travel planning website.
+
+An external link, however, may take a visitor from the list of hotels on your website to the hotel’s official website. The visitor leaves your website to go to another website. External links on your website are also commonly known as outbound links. The links are pointing out of the website to another site.
+
+Links that point to your website from another website are called backlinks—also known as inbound links. Continuing the example above, if an online article about the best vacation packages includes a link to a webpage on your travel planning website, that would be considered a backlink.
+
+Best practices for internal and external links
+The following are best practices to keep in mind when creating internal and external links.
+
+Use appropriate anchor text
+Anchor text is the visible text in a hyperlink. In the example below, “Learn more” is the anchor text.
+
+
+Anchor text example with learn more as the visible text in a hyperlink.
+
+Good anchor text helps visitors navigate your site and helps Google understand what the page you’re linking to is about.
+
+Anchor text should be:
+
+Descriptive: Use anchor text that provides a basic idea of what the page linked to is about. 
+
+Avoid using generic anchor text like “page,” “article,” or “click here.” 
+
+In most cases, you’ll want to avoid using the URL itself as anchor text.
+
+Concise: A few words or a short phrase is all you need for anchor text. 
+
+Avoid linking an entire paragraph or long sentence. 
+
+Easy to spot: Use formatting that makes your links stand out from the regular text on your website.
+
+If the link only becomes apparent when a visitor moves their mouse over it, they can easily miss the link—or even accidentally click on it.
+
+Helpful: Use anchor text only when it helps a visitor navigate your site to find the information they need.
+
+Avoid using lengthy anchor text just for search engines.
+
+Avoid stuffing the anchor text with keywords.
+
+Use caution with external links
+Linking to other websites can be beneficial, but you need to avoid linking to sites that may not be reputable or that may include information you don’t want to endorse.
+
+Some users may try to take advantage of external linking for their own website’s benefit. For example, they may add a link to their site in the comments section or message boards of a website. Or, a third-party software application added to a site, such as live chat, might include unwanted external links.
+
+In these cases, you can use nofollow links, which are links that feature HTML code that tells search engines to ignore that link. This means the search engines won’t associate your website with the site you’re linking to.
+
+If your site includes public comments or message boards, it’s a good idea to automatically use nofollow links for all comments and messages added by users. This is generally a faster and more efficient process than manually removing external links every time they appear in the comments section or message boards.
+
+Promoting your website
+One of the ways that Google determines a website’s ranking is by analyzing the sites that link to it. Both the quality and quantity of links count towards a site’s ranking.
+
+Creating quality content that other people want to link to is the best way to promote your website and attract backlinks. This is a gradual process that happens as people discover a website’s content and link to it. Promoting your website can help this process along by making it easier for people to find your content. 
+
+Ways to promote your website
+Here are some ideas to help you promote your website and attract backlinks:
+
+Publish blog posts about new content or new services you offer.
+
+Share quality content on social media.
+
+Feature helpful articles, such as buying guides, in your email marketing.
+
+Connect with online communities related to your site, such as forums or message boards, social media groups, or related websites.
+
+Only share content that will interest your users, instead of sharing every update to your site’s content.
+
+Paid links
+Google warns against using paid links unless they are for advertising purposes and properly labeled. Buying and selling links in order to manipulate search results is not an acceptable practice and can negatively impact a site’s ranking. It can also lead to low-quality backlinks from sites with a questionable reputation.
