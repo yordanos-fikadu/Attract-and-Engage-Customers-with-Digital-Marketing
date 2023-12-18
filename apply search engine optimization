@@ -11,4 +11,69 @@
 - make expertise and authoritativeness clear. 
    Be sure that content on the site is created or edited by people with knowledge in the topic. 
 - provide an appropriate amount of content for your subject
-   Make sure your content is factually accurate, clearly written, and comprehensive. 
+   Make sure your content is factually accurate, clearly written, and comprehensive.  
+
+ Google images best practices
+- Create a great user experience
+   ensure that visual content is relevant to the page topic. 
+   Display images only where they add original value to the page. 
+- include descriptive titles, captions, and filenames
+- use descriptive alt text:
+   Alt text is text that describes an image.
+   When writing alt text, focus on creating useful, information-rich content that uses keywords appropriately.
+- Optimize for speed
+- To determine if images are slowing the load speed of a website,
+  use a free-of-charge tool provided by Google called Page Speed Insights.
+  This tool analyzes a webpage and provides information about its load time. 
+  It also provides suggestions on how you can decrease the load time, such as what images are taking a long time to load.
+
+ Craft effective titles and meta descriptions
+The webpage title element provides both the user and search engines with a page's topic. 
+The meta description provides the search engines a summary of what the page is about
+ Page's title recommendation
+- accurately describe the topic of the page's content.
+   avoid creating a title with default text like "Untitled" or "New Page 1.
+- ensure every page has a unique title element
+- brief but descriptive.
+ Meta description recommendation
+- add to every page
+   You want to make sure there is a meta description for every page of the website
+- accurately summarize the page content
+- use unique descriptions for each page.
+https://www.coursera.org/learn/attract-and-engage-customers/supplement/ndhBH/control-title-links-and-snippets
+https://docs.google.com/document/d/1EctbXw8Srnt5wLngTOulFmR45GpUOpxs1iBAsiJH07E/template/preview
+https://www.coursera.org/learn/attract-and-engage-customers/supplement/g7cPs/establish-your-business-details-on-google
+
+Rich results
+as enhanced results in Google Search with extra visual or interactive features.
+To get rich results for a webpage, you should add structured data to the page, 
+which is code used to describe a webpage content better to search engines. 
+Structured data: to the page, which is code used to describe a webpage content better to search engines. 
+Structured data markup: is a way of providing additional machine readable information within a webpage.
+Search engines use structured data to display content in useful ways in search results. That in turn can help attract just the right kind of customers for a business.
+Schema is the type of code used for the structured data markups. 
+Rich result test
+
+Google Search Console: Search Console provides information on a range of different website metrics and reports.
+ Search console first steps
+- Add and verify website ownership
+- ensure Google can find and read your pages.
+- review any mobile usability errors
+- consider submitting a sitemap
+  A sitemap is a file that provides information about the pages, videos, and other files on the site and the relationship between them. 
+- monitor your site's performance.
+
+ Popular Search Console Report
+- Overview page
+  shows a summary of your site's health, including any security issues, graphs of metrics, and summaries of enhancements for the site, such as structured data. 
+- Web Search Performance report 
+  focuses on several SEO-related metrics.
+   - Impressions: are how many times your site has been seen by someone in Google Search. 
+   - Clicks: are how many times a searcher clicked on your website's results in the SERPs. 
+   - The click-through rate: is the percentage of people who saw your listing and then clicked on it. 
+   - The average position: is where your site ranks in the search results. Position one is the top position. 
+   - Links report: This shows which websites link to yours, what the link text is, and what your top-linked pages are. 
+     Use this report to better understand which webpages are receiving the most links from other websites. 
+   - Coverage report: shows the index status for all pages in your site. 
+   - A manual action is Google's way demote or remove webpages that are not compliant with its webmaster quality guidelines. 
+   - Security Issues report lists indications that your site was hacked or behavior on your site that could potentially harm a visitor or their computer.
